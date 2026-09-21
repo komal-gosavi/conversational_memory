@@ -1,4 +1,4 @@
-# L1-04: Conversational Memory Management
+# Conversational Memory Management
 
 > A practical comparison of buffer and hybrid summary-buffer memory strategies for LLM conversations using LangChain and Groq.
 
